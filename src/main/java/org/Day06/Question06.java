@@ -3,19 +3,19 @@ package org.Day06;
 import java.io.IOException;
 
 class Question06 {
-    /**public void printFileContent (){
-        //
-        throw new IOException();
+    public void printFileContent () throws IOException{
+
+        //throw new IOException();
 
     }
 }
 
-    public class Test {
-    public static void main(String[] args) {
+    class Test {
+    public static void main(String[] args) throws Exception {
         Question06 xobj = new Question06();
              xobj.printFileContent();
 
     }
-     */
+
 }
-    //Output ==> Option A and Option E
+    //Output ==> Option C and Option E
