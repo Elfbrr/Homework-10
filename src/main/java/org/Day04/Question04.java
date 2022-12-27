@@ -10,7 +10,7 @@ public class Question04 {
         } while (idx < size-1);
         System.out.println("The Top element: " + stack[idx]);
 
-        //Output ===> C.Option C
+        //Output ===> C.Option C.
 
     }
 }
